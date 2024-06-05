@@ -22,7 +22,8 @@ export default function Home() {
             <h3 className="text-2xl py-2">Full Stack Developer</h3>
           </div>
           <div className="text-5xl flex justify-center gap-6">
-            <AiFillLinkedin><a href="https://www.linkedin.com/in/lucas-mariano-gomez-villasuso/" target="_blank"></a></AiFillLinkedin>
+          <a href="https://www.linkedin.com/in/lucas-mariano-gomez-villasuso/" target="_blank">            <AiFillLinkedin></AiFillLinkedin>
+</a>
             <AiFillGithub></AiFillGithub>
           </div>
         </section>
