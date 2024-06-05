@@ -23,9 +23,6 @@ export default function Home() {
           <div className="text-center p-10">
             <h2 className="text-5xl py-2 text-teal-600 font-medium">Lucas M. Gómez</h2>
             <h3 className="text-2xl py-2">Full Stack Developer</h3>
-            <p className="text-md py-5 leading-8">
-            Hello, I am Lucas, Fullstack Developer and Psychology student. After spending some time studying, I decided to focus my career in the things that interest me, in this case programming and Artificial Intelligence.
-            </p>
           </div>
           <div className="text-5xl flex justify-center gap-6">
             <AiFillLinkedin></AiFillLinkedin>
